@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👾 Juju.exe is running...
 
-<!--
-**Jujustxr/jujustxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 An active *IT college student* passionate about *Cybersecurity* and *Frontend UI development*.  
+💻 I enjoy exploring new tools, building creative projects, and solving challenges that sharpen my skills.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+*Languages*  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,go,haskell,delphi" />
+</p>
+
+*Frameworks & UI*  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,css,tailwind" />
+</p>
+
+*Tools & OS*  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git" />
+</p>
+
+*Cybersecurity*  
+<p align="center">
+  🔐 Wireshark · Nmap · Burp Suite · Metasploit
+</p>
