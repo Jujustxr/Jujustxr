@@ -39,5 +39,6 @@ Although i get bored very easily, i actually enjoy exploring new tools, building
 </p>
 
 ---
-Wont work without Rammstein playlist to jam on :
-https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RbzfW?si=F1VHUW4KTx-7ow-kevn9qw
+Wont work without Rammstein playlist to jam on 
+
+[https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RbzfW?si=F1VHUW4KTx-7ow-kevn9qw](https://i.scdn.co/image/ab67706f0000000263d0a9309a10ab35f37e2d36)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RbzfW?si=F1VHUW4KTx-7ow-kevn9qw)
