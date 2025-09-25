@@ -1,7 +1,7 @@
 # 👾 Juju.exe is running...
 
 🎓 An active *IT college student* passionate about *Cybersecurity* and *Frontend UI development*.  
-💻 I enjoy exploring new tools, building creative projects, and solving challenges that sharpen my skills.  
+Although i get bored very easily, i actually enjoy exploring new tools, building creative projects, and solving challenges that sharpen my skills.  
 
 ---
 
@@ -37,3 +37,7 @@
 <p align="center">
   🔐 Wireshark · Nmap · Burp Suite · Metasploit
 </p>
+
+---
+Wont work without Rammstein playlist to jam on :
+https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RbzfW?si=F1VHUW4KTx-7ow-kevn9qw
