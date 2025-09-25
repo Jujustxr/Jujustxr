@@ -44,4 +44,6 @@ Although I get bored very easily, I actually enjoy exploring new tools, building
 
 ## 🎧 Current Jam  
 
-[![This Is Rammstein](https://i.scdn.co/image/ab67706f0000000263d0a9309a10ab35f37e2d36)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RbzfW?si=F1VHUW4KTx-7ow-kevn9qw)
+## 🎧 Current Jam  
+
+[![This Is Rammstein](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RbzfW?si=F1VHUW4KTx-7ow-kevn9qw)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RbzfW?si=F1VHUW4KTx-7ow-kevn9qw)
