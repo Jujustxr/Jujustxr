@@ -35,7 +35,7 @@ Although I get bored very easily, I actually enjoy exploring new tools, building
 
 **Cybersecurity**  
 <p align="center">
-  🔐 Wireshark · Nmap · Burp Suite · Metasploit
+  🔐 Wireshark · Metasploit
 </p>
 
 ---
