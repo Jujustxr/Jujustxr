@@ -1,6 +1,6 @@
-# 👾 Juju.exe is running...
+#  Juju.exe is running...
 
-🎓 An active *IT college student* passionate about *Cybersecurity* and *Frontend UI development*.  
+ An active *IT college student* passionate about *Cybersecurity* and *Frontend UI development*.  
 Although I get bored very easily, I actually enjoy exploring new tools, building creative projects, and solving challenges that sharpen my skills.  
 
 ---
